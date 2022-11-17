@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Bienvenue au jeu de Noël!"
+date:   2022-11-19 
+categories: jekyll update
+---
+
+### Bon PRE Anniversaire mon petit coeur !
+
+Cette année je t'offre un cadeau qui se savoure tous les jours. Non pas avec les papilles, mais avec pleins de petits posts qui vont apparaitre sur ce site internet durant le mois de décembre. Si tu le regardes assidûment, tu pourras même te laisser guider vers ce qu'il t'attend à Noel...
+
+Eh oui ! Tu l'as bien deviné, c'est un sorte de calendrier de l'avant-après &#10084;
+
+<img src="/images/day1.jpeg" alt="">
+
+
+Et pour te donner un exemple de comment ca marche, tu verras apparaitre demain un post avec ton VRAI cadeau d'anniversaire ! 
+
+
+Voici un petit indice ...
+
+<img src="/images/day0_indice.png" alt="">

@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Bienvenue au jeu de Noël!"
-date:   2022-11-10 
-categories: jekyll update
----
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sit amet nunc ex. In ut lobortis ex, vel dictum mauris. Duis dapibus eleifend turpis sed tincidunt. Fusce eget ligula et ligula fringilla viverra. Nulla feugiat ac libero ac varius. Donec pretium posuere congue. Suspendisse venenatis efficitur velit, eget sodales metus rhoncus et. Duis tristique ultrices neque, non posuere ligula fermentum at. Mauris vitae consectetur dui. Aliquam sollicitudin nibh sit amet cursus placerat.
-
-<img src="/images/day1.jpeg" alt="">
