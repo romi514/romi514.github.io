@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Commencement"
+date:   2022-12-01 
+categories: jekyll update
+---
+
+### C'est le début &#10084;
+
+Et pour ce début de calendrier de l'avent, une petite photo rappel d'un prince qui regarde as Licorne au Bois Dormant s'assoupir après une soirée très certainement épuisante.
+
+> Aurore : C’est que vous êtes…  
+> Prince Philippe : Un inconnu ? Mais vous oubliez que nous nous sommes déjà vus.  
+> Aurore : Nous nous sommes vus ?  
+> Prince Philippe : Mais voyons, vous l’avez dit vous-même : « au bout milieu d’un rêve »  
+>  
+> *La Belle au Bois Dormant*
+
+<img src="/images/11.jpg" alt="">
