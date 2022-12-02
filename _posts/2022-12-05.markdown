@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "A ski parait"
+date:   2022-12-05 
+categories: jekyll update
+---
+
+### Askip, Laure aime le ski
+
+Morzine-zine la famille.  
+Deux skis aux patoches, tout schuss jusqu'en bas. Laure dessine ses traces dans les montagnes alpestres depuis toute petite. D'un style élégant et contrôlé, Laure valse avec la montagne qui parait si grande à côté. Elle s'arrête de temps en temps tout de même, pour apprécier le panoramique offert par l'altitude avec son petit chéri.
+
+> "Nul ne skie assez doucement pour glisser sans laisser de traces.""
+>  
+> *Proverbe Finnois*
+
+<img src="/images/21.jpg" alt="">

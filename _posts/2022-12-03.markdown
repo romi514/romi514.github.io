@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "La trance en danse"
+date:   2022-12-03 
+categories: jekyll update
+---
+
+### La trance en danse d'amour
+
+Laure ne contente pas d'un lit bien douillet et d'un bon Chick Flick. Du haut de ses talons émincés, elle est capable de faire danser sa robe rouge jusqu'à l'aurore.
+
+> "Danser est le fin mot de vivre et c’est par danser aussi soi-même qu’on peut seulement connaître quoi que ce soit : il faut s’approcher en dansant.”
+>  
+> *Jean Bubuffet - peintre*
+
+<img src="/images/20.jpg" alt="">
