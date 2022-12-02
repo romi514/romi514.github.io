@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bon Anniversaire !"
+title:  "Bon Anniversaire"
 date:   2022-11-20 
 categories: jekyll update
 ---

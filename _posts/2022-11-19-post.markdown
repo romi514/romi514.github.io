@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bienvenue au jeu de Noël!"
+title:  "Bienvenue au jeu de Noël"
 date:   2022-11-19 
 categories: jekyll update
 ---
