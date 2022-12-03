@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Folk Laure"
+date:   2022-12-06 
+categories: jekyll update
+---
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4V2wBXWt35kQmUvH2LOYqL?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>  
+<br>
+### K-Laure aux platines &#127899; &#127926; &#127911;
+Après avoir parcouru les boites de nuits de l'Arc lémanique, Laure se lance un défi de monter derrière les platines. Laurita? Corps? Mushew? Chlaure? La jeune DJ se cache derrière multiples noms de scène et brouille les pistes de ses prochaines performances. On ne sait jamais quand elle jaillira depuis un nuage de fumée derrière les platines de la main-stage. Au dernières nouvelles, issues du bouche-à-oreille de l'underground genevois, elle compterait emflammer une soirée inespérée de clubeurs en recherche de son sous le nom K-Laure. Restez aux aguets.
+<br>
+<br>
+> "D'où sors-tu? Ta douceur tue""
+>  
+> *Le Fennec*
+
+<br>
+
+<img src="/images/23.jpg" alt="">

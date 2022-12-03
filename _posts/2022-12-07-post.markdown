@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "J-Hack"
+date:   2022-12-07 
+categories: jekyll update
+---
+### &#128680; Arrêtez tout &#128680;
+
+Salut moi c'est J-Hack,  
+<br>
+J'aime bien espionner les internautes et je suis tombé sur ton ce petit site que ton copain semble avoir créer pour ton anniversaire. Mais je pense qu'il y a plus derrière qu'un simple calendrier de l'avent... Je viens de m'apercevoir de quelque chose d'anormal dans une des photos des anciens posts. Je vais investiguer un peu de mon côté et je reviens vers toi quand j'arriverai à comprendre un peu ce bazar. Garde les yeux ouverts parce qu'il est malin ce type. Ca se voit dans son visage. Tiens, j'ai trouvé une photo ci-dessous qui montre bien qu'il est un peu chtarbé. Bon à vrai dire, tu en as l'air un peu aussi.  
+<br>
+Ciao bella,  
+*J-Hack*
+<br>
+<br>
+<img src="/images/6.jpg" alt="">
