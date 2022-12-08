@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Gucci Gang"
+date:   2022-12-08 
+categories: jekyll update
+---
+### Don't mess with the gang
+
+Fondé en 2014 par Lorita la Gangsta, le Gucci gang terrorise le canton de Vaud. Ses membres se fondent dans le décor lausannois lors de sorties au bord du Léman, de tournées en bars, et de virées en discothèques. Les Gosses du Québec et le Jagger semblent être leurs lieux de prédilection pour des apparitions publiques, mais leur centre d'opérations serait situé près d'un édifice religieux anglo-saxon. Une des seules photos prises à ce jour nous montre bien le danger qu'un malheureux passant pourrait face en croisant le chemin de ce gang sans merci. En traversant la rue, regardez à gauche, à droite, à gauche, et puis surtout derrière vous ...
+<br>
+<br>
+<img src="/images/4.jpg" alt="">
