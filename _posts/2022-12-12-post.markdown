@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "J-Hack : Le retour"
+date:   2022-12-12
+categories: jekyll update
+---
+### &#9993; Des Nouvelles &#9993;
+
+Ciao Bella, c'est J-Hack. Bon, je suis désolé de ne pas être revenu vers toi plus tôt. Un ami à moi a reçu une lettre par la poste avec un message étrange, très certainement un alphabet exotique. J'ai passé un temps incalculable à essayer de décrypter le message mais sans réussite jusqu'à présent. En tout cas, j'ai pas encore résolu ton problème.... Par contre j'ai réussi à hacker l'ordi de ton copain et j'ai vu toutes les photos qu'il comptait poster. J'ai seulement pu en extraire une seule, son serveur était bien trop protégé. Je te la mets ci-dessous et j'ai entouré ce qui semble être la lettre N. Comme t'as pu voir, Romain cache des lettres dans ses photos. J'ai vu sur son serveur qu'il y allait en avoir 23 en tout et que toutes les photos ne contiennent pas forcément une lettre. En tout, 4 photos n'ont pas de lettres, dont 2 photos que tu as déjà vues.  
+
+Je reviens vers toi quand j'arrive à savoir à quoi servent les lettres.  
+<br>
+Hackerly Yours,  
+J-Hack
+
+<img src="/images/1.jpg" alt="">
