@@ -1,15 +1,14 @@
 ---
 layout: post
-title:  "Celle qui murmurait"
+title:  "Bonnie and Clyde"
 date:   2022-11-14
 categories: jekyll update
 ---
-### Une amateur de vin &#127863;
+### Les tueurs du style
 
-Boire pour oublier ? Boire pour noyer sa tristesse ? Laure n'aborde pas le navire de l'ivresse ainsi. Laure veut avant tout boire pour bien manger, pour déconner, et pour partager des moments inoubliables avec ses proches. Sans doute un peu trop en recherche de partage, Laure oublie quand même son poids plume de temps en temps. C'est donc avec la cuvette des toilettes que Laure poursuit sa quête sociale. On l'appelerait même : "La femme qui murmurait à l'oreille des cuvettes".  
-Mais Laure reste une amateur de bons vins ; à chaque moment, son vin. Elle entreprend de partir à la découverte des grandes régions viticoles de France avec son chéri. Bourgogne &#9989;
+Ils révolutionnent la mode. A 26 ans, Laure et Romain apportent de l'air frais à la mode européen. Vous aussi vous en avez marre des voitures aux teintes blanches et noires. Eh bien la voiture de ce duo ressemblerait très certainement à une cocinelle rose fushia à paillettes argentées, des phares antennes d'escargot, et un toit tortue décapotable. Ça roule pas vite, mais ça claque de style. Laure et Romain n'ont pas encore trouvé de nom de duo mais ils s'apprêteraient à faire une tournée internationale pour partager leur talent. À dieu les hippies végans, faites place aux tueurs du style.  
 
-> "Est-ce raisonnable d'e#tre sage? D'après un philosophe norvégien, il manquerait à l'homme 0.5g d'alcool par litre de sang."  
-> *-Drunk*
+> “La mode se démode, le style jamais.”  
+> *-Coco Chanel*
 
-<img src="/images/12.jpg" alt="">
+<img src="/images/3.jpg" alt="">
