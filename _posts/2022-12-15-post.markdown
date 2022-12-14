@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Un truc"
+date:   2022-12-15
+categories: jekyll update
+---
+### On fait un truc  
+
+<span style="color:blue">Julien</span> Eh Laure, on fait un truc?  
+<span style="color:green">Laure</span> Pourquoi?  
+<span style="color:blue">Julien</span> Bah je sais pas, on fait un truc.  
+<span style="color:green">Laure</span> Un truc?  
+<span style="color:blue">Julien</span> Bah ouai.  
+<span style="color:green">Laure</span> Un truc?  
+<span style="color:blue">Julien</span> Un truc.  
+<span style="color:green">Laure</span> Mais pourquoi?  
+<span style="color:blue">Julien</span> Bah je sais pas.  
+<span style="color:green">Laure</span> Pourquoi pas?  
+<span style="color:blue">Julien</span> Bah t'as envie?  
+<span style="color:green">Laure</span> Bah ouai.  
+<span style="color:blue">Julien</span> Bah vas-y on fait un truc.  
+<span style="color:green">Laure</span> Viens on fait un ni-oui ni-non.  
+<span style="color:blue">Julien</span> Un quoi?  
+<span style="color:green">Laure</span> ...  
+<span style="color:green">Laure</span> Ta gueule !  
+
+
+<img src="/images/2.jpg" alt="">
