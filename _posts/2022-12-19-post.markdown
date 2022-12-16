@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Un tour d'une vie"
+date:   2022-12-19
+categories: jekyll update
+---
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7LVHVU3tWfcxj5aiPFEW4Q?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> 
+
+### Une aventure à &#128690;
+
+Une aventure à vélo mais pas comme les autres. Une copine, un frère, un ami, tous ensemble à dos de tandem pour le parcours d'une vie. Parce que avant tout, le tandem reflète bien la vie. La vie à deux.  
+<br>
+C'est pas évident de faire avancer ce lourd engin mais quand on s'y met à deux, c'est bien plus simple. Il faut s'écouter, se coordonner, s'encourager, et en avançant on fait avancer l'autre. Il se peut qu'on s'engueule à des moments, que l'un de nous pédale un peu plus que l'autre, que la personne qui guide à un moment prenne un mauvais virage... Mais ça fait partie du sport, c'est pas toujours évident d'être en symbiose. Pour certains c'est beaucoup plus facile de viser la performance individuelle et de fuser sur un vélo de course. Livré qu'à soi-même, le seul reponsable, on est en contrôle total de notre trajectoire. Mais pour ce que ca vaut, je préfère partager tous les instants de mon parcours le long du Léman. Je préfère prendre le temps de regarder le paysage autour de moi, m'arrêter de temps en temps pour immortaliser le moment. Je préfère aider et être aidé dans les montées pour ensuite profiter ensemble des descentes sans savoir quand elles s'arrêtent &#10084;
+
+<br>
+<img src="/images/9.jpg" alt="">

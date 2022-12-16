@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "J-Hack: Allo?"
+date:   2022-12-18
+categories: jekyll update
+---
+### Merde!
+
+T'as parlé à ton copain de moi! Ca va pas ou quoi!? C'est top secret ce qu'on est en train de faire toi et moi. Maintenant, je suis dans le coffre d'une voiture je pense... Je vois rien du tout! J'ai réussi à choper un peu de réseau là. J'ai entendu le gars dans la voiture parler d'un device Cisco top secret qu'il serait en train d'utiliser. Ca supervise le trafic internet et détecte toute fuite d'information liée au cadeau de Noël de ton copain. On n'est pas dans la merde maintenant... Je vais devoir te guider en prenant des précautions.  
+Bon euh, tiens:
+
+> “La vie se déroule devant nous comme un **album photo**. Les multiples couleurs du temps font virevolter une valse de souvenirs intimes.”  
+> “**Chronologiquement**, aucune connaissance ne précède en nous l’expérience et c’est avec elle que toutes commencent.”
+
+Ciao Bella,  
+J-Hack
+
+<br>
+<img src="/images/8.jpeg" alt="">
