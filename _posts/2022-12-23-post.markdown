@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Une histoire sans fin"
+date:   2022-12-23
+categories: jekyll update
+---
+### Quelle aventure !
+
+C'est marrant parce que je ressens le besoin de terminer cette série de posts avec une quelconque clôture sentimentale. Peut-être est-ce bien mon propre comble que de clôturer mes sentiments. Apportons plutôt un début à cette fin...
+<br>
+<br>
+<span style="color:blue">C'est l'histoire d'un début.</span>   
+<br>
+<span style="color:green">Un début de quoi?</span>  
+<span style="color:blue">Un début d'un tout.</span>  
+<br>
+<span style="color:green">Un tout...tou?</span>  
+<span style="color:blue">Non pas de toutou dans cette histoire pour l'instant &#128531;</span>  
+<br>
+<span style="color:green">Eh bien c'est quoi ce tout?</span>  
+<span style="color:blue">Ce tout c'est notre histoire.</span>  
+<br>
+<span style="color:green">Je suis perdu.</span>  
+<span style="color:blue">Et moi aussi, parfois, mais il n'y a pas besoin de toujours savoir où on est dans cette histoire, tant qu'on est heureux.</span>  
+<br>
+<span style="color:green">Comment sais-tu que t'es heureux?</span>  
+<span style="color:blue">Parce que cette histoire me fait vivre. C'est comme J-Hack. Elle m'oriente.</span>  
+<br>
+<span style="color:green">Elle t'oriente vers où?</span>  
+<span style="color:blue">Vers des aventures.</span>  
+<br>
+<span style="color:green">Mais comment?</span>  
+<span style="color:blue">Tu vois quand tu nages avec le courant, ou tu cours avec le vent de dos? Eh bien cette histoire me pousse ainsi. Tout devient facile et agréable.</span>  
+<br>
+<span style="color:green">Et moi, je suis dans cette histoire?</span>  
+<span style="color:blue">Mais mon coeur... c'est toi l'histoire</span>  
+<br>
+<span style="color:green">Ah...Hihi &#129392;</span>  
+<span style="color:blue">Hihi &#129392;</span>  
+<br>
+Je t'aime mon coeur &#10084; 
+
+<br>
+<img src="/images/16.jpg" alt="">
